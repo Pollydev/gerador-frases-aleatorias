@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cour';
+    src: url(../fontes/Courgette-Regular.ttf);
+}
+@font-face {
+    font-family: 'ibm';
+    src: url(../fontes/IBMPlexSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'inter';
+    src: url(../fontes/Inter-VariableFont_slnt\,wght.ttf);
+}
